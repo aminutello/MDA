@@ -1,0 +1,197 @@
+{
+  "intents": [
+    {
+      "name": "ELENCO_BANDI",
+      "samples": [
+        "Dove posso reperire i bandi di concorso?",
+        "Dove trovo i bandi per i concorsi?",
+        "Quali sono le fonti per reperire i bandi di concorso?",
+		"Dove trovo i concorsi?",
+		"Dove posso trovare la lista dei concorsi?",
+	    "dove sono pubblicati i bandi?"
+      ],
+      "responses": [
+        "I bandi di concorso - oltre che sulla Gazzetta Ufficiale - sono disponibili sul nostro sito ed, eventualmente, altri siti specializzati."
+      ]
+    },
+    {
+      "name": "COMUNICAZIONE_RISULTATI",
+      "samples": [
+        "Come vengono comunicati i risultati delle prove di concorso?",
+		"In che modo vengono notificati i risultati delle prove di selezione?",
+		"Qual è il processo di comunicazione dei risultati delle prove di concorso?",
+		"Come avvengono le comunicazioni relative ai risultati delle prove di selezione?",
+		"In quale modo vengono resi noti i risultati delle prove di concorso?",
+		"Quali sono i canali utilizzati per informare sui risultati delle prove di selezione?"
+      ],
+      "responses": [
+        "I risultati delle prove vengono comunicati con modalità che assicurano la riservatezza tramite il nostro sito. In seguito alla pubblicazione della graduatoria finale, i vincitori ricevono anche via PEC un’apposita comunicazione di avvio del procedimento di nomina alle dipendenze dell’Istituto."
+      ]
+    },
+    {
+      "name": "MATERIALE_ESPERTO",
+      "samples": [
+        "Quali testi devo consultare per la preparazione ai concorsi per Esperto?",
+		"Cosa dovrei leggere per prepararmi ai concorsi per Esperto?",
+		"Quali libri consigliate per la preparazione ai concorsi da Esperto?",
+		"Quali materiali sono raccomandati per studiare per i concorsi da Esperto?",
+		"Che testi dovrei considerare durante la preparazione per i concorsi da Esperto?",
+		"Quale letteratura è consigliata per la preparazione ai concorsi da Esperto?"
+      ],
+      "responses": [
+        "La Banca non consiglia testi specifici. Il candidato, sulla base del programma d’esame allegato ai bandi di concorso, deve far riferimento ad una preparazione universitaria a livello di laurea magistrale. In ogni caso, sul sito sono disponibili le tracce della prova scritta e i quesiti dei test di precedenti edizioni dei concorsi."
+      ]
+    },
+    {
+      "name": "VOTO_MINIMO",
+      "samples": [
+        "Per la partecipazione ai concorsi per Esperto è richiesto un voto minimo di laurea?",
+		"C'è un punteggio minimo di laurea richiesto per partecipare ai concorsi da Esperto?"
+		"Esiste un voto di laurea minimo obbligatorio per i concorsi per Esperto?"
+		"Qual è il requisito di voto di laurea per partecipare ai concorsi da Esperto?"
+		"È necessario avere un punteggio di laurea minimo per candidarsi ai concorsi da Esperto?"
+		"Ci sono restrizioni sul voto di laurea per partecipare ai concorsi per Esperto?"
+      ],
+      "responses": [
+        "Sì.  Al momento, per tali concorsi di norma è richiesto un punteggio di almeno 105/110 o votazione equivalente."
+      ]
+    },
+    {
+      "name": "ETA_MINIMA",
+      "samples": [
+        "È previsto un limite di età?",
+		"Ci sono restrizioni di età per partecipare?"
+		"Esiste un limite d'età per i partecipanti?"
+		"Ci sono vincoli di età per i concorsi?"
+		"È stabilito un limite anagrafico per la partecipazione?"
+		"Ci sono restrizioni sull'età per coloro che partecipano?"
+      ],
+      "responses": [
+        "La partecipazione ai concorsi indetti dalla Banca, in linea generale, non è soggetta a limiti di età."
+      ]
+    },
+    {
+      "name": "SEDE_LAVORO",
+      "samples": [
+        "Quali sono le sedi di lavoro?",
+		"Dove si trovano le sedi operative?",
+		"In quali località sono situate le sedi di lavoro?",
+		"Quali sono i luoghi di impiego?",
+		"Dove potrei essere assegnato per il lavoro?",
+		"In quali città sono disponibili le posizioni lavorative?"
+      ],
+      "responses": [
+        "La sede di lavoro viene individuata al termine dell’istruttoria di assunzione e può riguardare sia i Servizi dell’Amministrazione Centrale (Roma) sia una delle Filiali dislocate in tutte le regioni. In alcuni casi, può anche essere indicata nel bando di concorso."
+      ]
+    },
+    {
+      "name": "CATEGORIE_PROTETTE",
+      "samples": [
+        "Come provvede la Banca d’Italia alle assunzioni di personale appartenente alle categorie protette?",
+		"Quali iniziative prende la Banca d’Italia per l'assunzione di personale appartenente alle categorie protette?",
+		"In che modo la Banca d’Italia gestisce le assunzioni di personale con disabilità?",
+		"Come affronta la Banca d’Italia le assunzioni per le categorie protette?",
+		"Quali politiche adotta la Banca d’Italia per il reclutamento di personale appartenente a categorie protette?",
+		"In che modo la Banca d’Italia considera la diversità nelle sue pratiche di assunzione?"
+      ],
+      "responses": [
+        "La Banca d’Italia effettua, ai sensi di legge, le assunzioni di personale appartenente alle “categorie protette” per il tramite di pubbliche selezioni."
+      ]
+    },
+    {
+      "name": "LAUREA_EQUIPOLLENTE",
+      "samples": [
+        "Se la mia laurea non è tra quelle indicate nel bando di concorso, posso partecipare comunque?",
+		"Posso candidarmi anche se la mia laurea non è elencata nel bando di concorso?"
+		"È possibile partecipare al concorso anche con una laurea non specificata nel bando?"
+		"Se la mia laurea non è menzionata nel bando, posso comunque candidarmi?"
+		"Posso partecipare al concorso anche se la mia laurea non rientra tra quelle richieste?"
+		"C'è la possibilità di candidarsi se la mia laurea non coincide con quelle elencate nel bando di concorso?"
+      ],
+      "responses": [
+        "Sì, se la laurea posseduta è equipollente, ovvero equiparata, ad una laurea o ad una classe di lauree specialistiche/magistrali indicate nel bando. In ogni caso, l’applicazione informatica predisposta per l’invio delle candidature è strutturata in modo tale da consentire l’inoltro delle domande solo ai possessori di lauree ammesse (lauree previste dal bando più lauree ad esse equiparate o equipollenti)."
+      ]
+    },
+    {
+      "name": "DEFINIZIONE_EQUIPOLLENZA",
+      "samples": [
+        "Cosa si intende per laurea equipollente?",
+		"Qual è la definizione di laurea equipollente?"
+		"Cosa significa avere una laurea equipollente?"
+		"Puoi spiegare il concetto di laurea equipollente?"
+		"Qual è il significato di laurea equipollente nei concorsi?"
+		"Cosa implica avere una laurea equipollente in termini di requisiti di partecipazione?"
+      ],
+      "responses": [
+        "La dichiarazione di equipollenza fa sì che, a determinati fini, un titolo possa produrre gli stessi effetti di un altro titolo (ad esempio, per la partecipazione ad un pubblico concorso). L’equipollenza è riconosciuta con legge o con decreto ministeriale. Competente per le equipollenze è il Ministero dell’Università e della Ricerca."
+      ]
+    },
+    {
+      "name": "DEFINIZIONE_EQUIPARATA",
+      "samples": [
+        "Che cosa si intende per laurea equiparata?",
+		"Puoi spiegare il concetto di laurea equiparata?",
+		"Cosa significa avere una laurea equiparata?",
+		"Qual è la definizione di laurea equiparata?",
+		"Come viene interpretato il concetto di laurea equiparata nei concorsi?",
+		"In cosa consiste l'equiparazione di una laurea in termini di requisiti?"
+      ],
+      "responses": [
+        "Per la partecipazione ai pubblici concorsi, il legislatore ha previsto un collegamento tra il vecchio e il nuovo ordinamento equiparando le vecchie lauree alle nuove classi di lauree specialistiche. Puoi verificare l’elenco aggiornato delle equiparazioni collegandoti ahttp://attiministeriali.miur.it/anno-2009/luglio/di-09072009.aspx."
+      ]
+    },
+    {
+      "name": "TITOLO_ESTERO",
+      "samples": [
+        "Se ho un titolo conseguito all’estero, posso partecipare al concorso?",
+		"Posso candidarmi se ho ottenuto un titolo all'estero?",
+		"È possibile partecipare al concorso con una laurea conseguita all'estero?",
+		"Se ho un diploma straniero, posso comunque partecipare al concorso?",
+		"Ci sono restrizioni per chi ha ottenuto un titolo all'estero nel concorso?",
+		"Posso presentare domanda di partecipazione se il mio titolo è stato conseguito all'estero?"
+      ],
+      "responses": [
+        "Sì, alle seguenti condizioni:"
+      ]
+    }
+	{
+      "name": "SALUTO",
+      "samples": [
+	  "Ciao",
+	  "Salve", 
+	  "Buonasera", 
+	  "Salve", 
+	  "Buongiorno"],
+      "responses": ["Ciao! Come posso aiutarti?", "Salve! Come posso assisterti oggi?", "Buongiorno! In cosa posso esserti utile?"]
+    },
+    {
+      "name": "RINGRAZIAMENTO",
+      "samples": [
+	  "Grazie", 
+	  "Grazie mille", 
+	  "Ti ringrazio"],
+      "responses": ["Prego! Se hai altre domande, sono qui per aiutarti.", "Di nulla! Avvisami se c'è qualcos'altro in cui posso essere d'aiuto.", "Non c'è di che!"]
+    },
+    {
+      "name": "ADDIO",
+      "samples": [
+	  "Arrivederci", 
+	  "Addio", 
+	  "Ci vediamo",
+	  "Buona serata",
+	  "Alla prossima"],
+      "responses": ["Arrivederci! Se hai bisogno di assistenza in futuro, sarò qui.", "Addio! Ci vediamo presto.", "Ci vediamo!"]
+    },
+    {
+      "name": "INFO",
+      "samples": [
+	  "Chi sei?", 
+	  "Cosa fai?", 
+	  "Qual è il tuo scopo?",
+	  "Con chi sto parlando?",
+	  "Sei un umano?"
+	  ],
+      "responses": ["Sono un assistente virtuale creato per aiutarti con le tue domande.", "Il mio scopo è fornire informazioni e assistenza. Come posso aiutarti oggi?", "Sono qui per rispondere alle tue domande e offrirti supporto."]
+    }
+  ]
+}
